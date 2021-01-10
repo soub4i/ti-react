@@ -11,3 +11,5 @@ this is a CRA application with:
 - ESLint & Prettier
 - Multi-env env variables
 - Mobile first
+
+**Disclaimer:** I committed .env files only for the sick of test.
